@@ -15,7 +15,7 @@
 #container {
     background-color: #111;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     margin: 0 auto;
     padding: 20px;
     text-align: center;
